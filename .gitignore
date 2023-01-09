@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+build.gradle
+build/
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+123.log
+src/test
